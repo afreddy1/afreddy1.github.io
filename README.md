@@ -1,2 +1,2 @@
 # afreddy1.github.io
-edddiiitt for this reppossitoory
+README.md for this reppossitoory

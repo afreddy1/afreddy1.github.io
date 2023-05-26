@@ -1,2 +1,3 @@
-# afreddy1.github.io
-README.md for this reppossitoory
+### afreddy1.github.io
+##HELLOO this is the Githubpage
+#(in progress)
